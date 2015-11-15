@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "PdfSigner Console Application",
+  "authors": [ "JanBerdel" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "iTextSharp": "5.5.7"
+  },
+
+  "commands": {
+    "PdfSigner": "PdfSigner"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}

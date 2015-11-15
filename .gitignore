@@ -1,0 +1,3 @@
+.vs/
+*.user
+src/PdfSigner/project.lock.json
